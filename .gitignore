@@ -26,11 +26,11 @@ stamp-h?
 config.h
 config.h.in
 .*.swp
-pixman/pixman-combine32.c
-pixman/pixman-combine32.h
-pixman/pixman-combine64.c
-pixman/pixman-combine64.h
-pixman/pixman-version.h
+#pixman/pixman-combine32.c
+#pixman/pixman-combine32.h
+#pixman/pixman-combine64.c
+#pixman/pixman-combine64.h
+#pixman/pixman-version.h
 test/alpha-test
 test/blitters-test
 test/clip-in
